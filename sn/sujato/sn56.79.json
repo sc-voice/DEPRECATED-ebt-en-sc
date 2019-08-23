@@ -1,0 +1,114 @@
+{
+  "sutta_uid": "sn56.79",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn56.79",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=”author”>Bhikkhu Sujato</span>, <span class=”publication-date”>2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Food at the Wrong Time ",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Perfumes and Makeup ",
+      "uid": "sn56.80"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Plants ",
+      "uid": "sn56.78"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn56.79:0.1",
+          "pli": "Saṃyutta Nikāya 56 ",
+          "en": "Linked Discourses 56 "
+        },
+        {
+          "scid": "sn56.79:0.2",
+          "pli": "8. Dutiyaāmakadhaññapeyyālavagga ",
+          "en": "8. Abbreviated Texts on Raw Grain "
+        },
+        {
+          "scid": "sn56.79:0.3",
+          "pli": "79. Vikālabhojanasutta ",
+          "en": "79. Food at the Wrong Time "
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 56 ",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn56.79:1.1",
+          "pli": "… “Evameva kho, bhikkhave, appakā te sattā ye vikālabhojanā paṭiviratā; atha kho eteva bahutarā sattā ye vikālabhojanā appaṭiviratā … pe …. ",
+          "en": "“… the sentient beings who refrain from food at the wrong time are few, while those who don’t refrain are many. …” "
+        },
+        {
+          "scid": "sn56.79:1.2",
+          "pli": "Navamaṃ. ",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“… the sentient beings who refrain from food at…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn56.79/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 56.79",
+    "volpages": "SN v 470",
+    "uid": "sn56.79",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vikālabhojana Sutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Food at the Wrong Time ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": null,
+        "id": "en_sn56.79_sujato",
+        "segmented": true,
+        "title": "Food at the Wrong Time ",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 4,
+    "biblio": null,
+    "num": 9
+  }
+}

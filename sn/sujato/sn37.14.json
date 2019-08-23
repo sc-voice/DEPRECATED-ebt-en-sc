@@ -1,0 +1,174 @@
+{
+  "sutta_uid": "sn37.14",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "sn37.14",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=”author”>Bhikkhu Sujato</span>, <span class=”publication-date”>2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Five Threats ",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Loving ",
+      "uid": "sn37.15"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Unmindful ",
+      "uid": "sn37.13"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "sn37.14:0.1",
+          "pli": "Saṃyutta Nikāya 37 ",
+          "en": "Linked Discourses 37 "
+        },
+        {
+          "scid": "sn37.14:0.2",
+          "pli": "1. Paṭhamapeyyālavagga ",
+          "en": "1. Abbreviated Texts "
+        },
+        {
+          "scid": "sn37.14:0.3",
+          "pli": "14. Pañcaverasutta ",
+          "en": "14. Five Threats "
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Linked Discourses 37 ",
+      "expandable": false
+    },
+    {
+      "segments": [
+        {
+          "scid": "sn37.14:1.1",
+          "pli": "“Pañcahi, anuruddha, dhammehi samannāgato mātugāmo … pe … nirayaṃ upapajjati. ",
+          "en": "“Anuruddha, when females have five qualities, when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell. "
+        },
+        {
+          "scid": "sn37.14:1.2",
+          "pli": "Katamehi pañcahi? ",
+          "en": "What five? "
+        },
+        {
+          "scid": "sn37.14:1.3",
+          "pli": "Pāṇātipātī ca hoti, adinnādāyī ca hoti, kāmesumicchācārī ca hoti, musāvādī ca hoti, surāmerayamajjappamādaṭṭhāyī ca hoti—",
+          "en": "They kill living creatures, steal, commit sexual misconduct, lie, and consume alcoholic drinks that cause negligence. "
+        },
+        {
+          "scid": "sn37.14:1.4",
+          "pli": "imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī”ti. ",
+          "en": "When females have these five qualities, when their body breaks up, after death, they are reborn in a place of loss, a bad place, the underworld, hell.” "
+        },
+        {
+          "scid": "sn37.14:1.5",
+          "pli": "Cuddasamaṃ. ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:1.6",
+          "pli": "Paṭhamapeyyālavaggo. ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.1",
+          "pli": "Mātugāmo puriso ca, ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.2",
+          "pli": "āveṇikā tidhammo ca; ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.3",
+          "pli": "Kodhano upanāhī ca, ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.4",
+          "pli": "issukī maccharena ca; ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.5",
+          "pli": "Aticārī ca dussīlo, ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.6",
+          "pli": "appassuto ca kusīto; ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.7",
+          "pli": "Muṭṭhassati pañcaveraṃ, ",
+          "en": " "
+        },
+        {
+          "scid": "sn37.14:2.8",
+          "pli": "kaṇhapakkhe pakāsito. ",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "“Anuruddha, when females have five qualities, when their body…",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "sn37.14/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "SN 37.14",
+    "volpages": "SN iv 243",
+    "uid": "sn37.14",
+    "blurb": "A woman with five good qualities has a good rebirth.",
+    "difficulty": null,
+    "original_title": "Pañcavera Sutta",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Five Threats ",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": null,
+        "id": "en_sn37.14_sujato",
+        "segmented": true,
+        "title": "Five Threats ",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 14
+  }
+}

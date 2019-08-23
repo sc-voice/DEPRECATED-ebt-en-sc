@@ -1,0 +1,237 @@
+{
+  "sutta_uid": "thag6.5",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag6.5",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=\"author\">Bhikkhu Sujato</span> and <span class=\"author\">Jessica Walton</span>. First edition 2014, this revised edition <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Māluṅkyaputta (1st)",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Sappadāsa",
+      "uid": "thag6.6"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Kulla",
+      "uid": "thag6.4"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag6.5:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag6.5:2.1",
+          "pli": "Chakkanipāta",
+          "en": "The Book of the Sixes"
+        },
+        {
+          "scid": "thag6.5:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag6.5:4.1",
+          "pli": "6.5. Mālukyaputtattheragāthā",
+          "en": "6.5. Māluṅkyaputta (1st)"
+        },
+        {
+          "scid": "thag6.5:5.1",
+          "pli": "“Manujassa pamattacārino,",
+          "en": "When a person lives heedlessly,"
+        },
+        {
+          "scid": "thag6.5:5.2",
+          "pli": "Taṇhā vaḍḍhati māluvā viya;",
+          "en": "craving grows in them like a parasitic creeper."
+        },
+        {
+          "scid": "thag6.5:5.3",
+          "pli": "So plavatī hurā huraṃ,",
+          "en": "They jump from life to life, like a monkey"
+        },
+        {
+          "scid": "thag6.5:5.4",
+          "pli": "Phalamicchaṃva vanasmi vānaro.",
+          "en": "greedy for fruit in a forest grove."
+        },
+        {
+          "scid": "thag6.5:6.1",
+          "pli": "Yaṃ esā sahate jammī,",
+          "en": "Whoever is beaten by this wretched craving,"
+        },
+        {
+          "scid": "thag6.5:6.2",
+          "pli": "taṇhā loke visattikā;",
+          "en": "this attachment to the world,"
+        },
+        {
+          "scid": "thag6.5:6.3",
+          "pli": "Sokā tassa pavaḍḍhanti,",
+          "en": "their sorrow grows,"
+        },
+        {
+          "scid": "thag6.5:6.4",
+          "pli": "abhivaṭṭhaṃva bīraṇaṃ.",
+          "en": "like grass in the rain."
+        },
+        {
+          "scid": "thag6.5:7.1",
+          "pli": "Yo cetaṃ sahate jammiṃ,",
+          "en": "But whoever prevails over this wretched craving,"
+        },
+        {
+          "scid": "thag6.5:7.2",
+          "pli": "taṇhaṃ loke duraccayaṃ;",
+          "en": "so hard to get over in the world,"
+        },
+        {
+          "scid": "thag6.5:7.3",
+          "pli": "Sokā tamhā papatanti,",
+          "en": "their sorrows fall from them,"
+        },
+        {
+          "scid": "thag6.5:7.4",
+          "pli": "udabindūva pokkharā.",
+          "en": "like a drop from a lotus-leaf."
+        },
+        {
+          "scid": "thag6.5:8.1",
+          "pli": "Taṃ vo vadāmi bhaddaṃ vo,",
+          "en": "I say this to you, good people,"
+        },
+        {
+          "scid": "thag6.5:8.2",
+          "pli": "yāvantettha samāgatā;",
+          "en": "all those who have gathered here:"
+        },
+        {
+          "scid": "thag6.5:8.3",
+          "pli": "Taṇhāya mūlaṃ khaṇatha,",
+          "en": "dig up the root of craving,"
+        },
+        {
+          "scid": "thag6.5:8.4",
+          "pli": "usīratthova bīraṇaṃ;",
+          "en": "as you’d dig up the grass in search of roots."
+        },
+        {
+          "scid": "thag6.5:8.5",
+          "pli": "Mā vo naḷaṃva sotova,",
+          "en": "Don’t let Māra break you again and again,"
+        },
+        {
+          "scid": "thag6.5:8.6",
+          "pli": "māro bhañji punappunaṃ.",
+          "en": "like a stream breaking a reed."
+        },
+        {
+          "scid": "thag6.5:9.1",
+          "pli": "Karotha buddhavacanaṃ,",
+          "en": "Act on the Buddha’s words,"
+        },
+        {
+          "scid": "thag6.5:9.2",
+          "pli": "khaṇo vo mā upaccagā;",
+          "en": "don’t let the moment pass you by."
+        },
+        {
+          "scid": "thag6.5:9.3",
+          "pli": "Khaṇātītā hi socanti,",
+          "en": "For if you miss your moment"
+        },
+        {
+          "scid": "thag6.5:9.4",
+          "pli": "nirayamhi samappitā.",
+          "en": "you’ll grieve when you’re sent to hell."
+        },
+        {
+          "scid": "thag6.5:10.1",
+          "pli": "Pamādo rajo pamādo,",
+          "en": "Negligence is a toxin;"
+        },
+        {
+          "scid": "thag6.5:10.2",
+          "pli": "pamādānupatito rajo;",
+          "en": "negligence is included as a toxin."
+        },
+        {
+          "scid": "thag6.5:10.3",
+          "pli": "Appamādena vijjāya,",
+          "en": "Through diligence and knowledge,"
+        },
+        {
+          "scid": "thag6.5:10.4",
+          "pli": "abbahe sallamattano”ti.",
+          "en": "pluck out the dart from yourself."
+        },
+        {
+          "scid": "thag6.5:11.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag6.5:11.2",
+          "pli": "Mālukyaputto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag6.5/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 6.5",
+    "volpages": "pts44",
+    "uid": "thag6.5",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Mālukyaputtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Māluṅkyaputta (1st)",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag6.5_sujato",
+        "segmented": true,
+        "title": "Māluṅkyaputta (1st)",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 38,
+    "biblio": null,
+    "num": 5
+  }
+}

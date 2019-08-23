@@ -1,0 +1,117 @@
+{
+  "sutta_uid": "an11.982",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an11.982",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=”author”>Bhikkhu Sujato</span>, <span class=”publication-date”>2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.983-991"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.502-981"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an11.982:1.1",
+          "pli": "Aṅguttara Nikāya 11 ",
+          "en": "Numbered Discourses 11 "
+        },
+        {
+          "scid": "an11.982:2.1",
+          "pli": "Paṭhamapaṇṇāsaka ",
+          "en": "The First Fifty "
+        },
+        {
+          "scid": "an11.982:3.1",
+          "pli": "Rāgapeyyāla ",
+          "en": "4. Abbreviated Texts Beginning with Greed "
+        },
+        {
+          "scid": "an11.982:4.1",
+          "pli": "AN 11.982 ",
+          "en": "982 "
+        },
+        {
+          "scid": "an11.982:5.1",
+          "pli": "“Rāgassa, bhikkhave, abhiññāya ekādasa dhammā bhāvetabbā. ",
+          "en": "“For insight into greed, eleven things should be developed. "
+        },
+        {
+          "scid": "an11.982:5.2",
+          "pli": "Katame ekādasa? ",
+          "en": "What eleven? "
+        },
+        {
+          "scid": "an11.982:5.3",
+          "pli": "Paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ jhānaṃ, catutthaṃ jhānaṃ, mettācetovimutti, karuṇācetovimutti, muditācetovimutti, upekkhācetovimutti, ākāsānañcāyatanaṃ, viññāṇañcāyatanaṃ, ākiñcaññāyatanaṃ—",
+          "en": "The first, second, third, and fourth absorptions; the heart’s releases by love, compassion, rejoicing, and equanimity; the dimensions of infinite space, infinite consciousness, and nothingness. "
+        },
+        {
+          "scid": "an11.982:5.4",
+          "pli": "rāgassa, bhikkhave, abhiññāya ime ekādasa dhammā bhāvetabbā”. ",
+          "en": "For insight into greed, these eleven things should be developed.”"
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 11 ",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an11.982/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": "pts-vp-pli5.358",
+    "uid": "an11.982",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": null,
+        "id": "en_an11.982_sujato",
+        "segmented": true,
+        "title": "",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 1
+  }
+}

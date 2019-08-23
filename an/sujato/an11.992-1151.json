@@ -1,0 +1,262 @@
+{
+  "sutta_uid": "an11.992-1151",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "an11.992-1151",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=”author”>Bhikkhu Sujato</span>, <span class=”publication-date”>2018</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "",
+    "next": null,
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "",
+      "uid": "an11.983-991"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "an11.992-1151:1.1",
+          "pli": "Aṅguttara Nikāya 11 ",
+          "en": "Numbered Discourses 11 "
+        },
+        {
+          "scid": "an11.992-1151:2.1",
+          "pli": "Paṭhamapaṇṇāsaka ",
+          "en": "The First Fifty "
+        },
+        {
+          "scid": "an11.992-1151:3.1",
+          "pli": "Rāgapeyyāla ",
+          "en": "4. Abbreviated Texts Beginning with Greed "
+        },
+        {
+          "scid": "an11.992-1151:4.1",
+          "pli": "AN 11.992–1151 ",
+          "en": "992–1151 "
+        },
+        {
+          "scid": "an11.992-1151:5.1",
+          "pli": "“Dosassa… pe… ",
+          "en": "“Of hate … "
+        },
+        {
+          "scid": "an11.992-1151:5.2",
+          "pli": "mohassa… ",
+          "en": "delusion … "
+        },
+        {
+          "scid": "an11.992-1151:5.3",
+          "pli": "kodhassa… ",
+          "en": "anger … "
+        },
+        {
+          "scid": "an11.992-1151:5.4",
+          "pli": "upanāhassa… ",
+          "en": "hostility … "
+        },
+        {
+          "scid": "an11.992-1151:5.5",
+          "pli": "makkhassa… ",
+          "en": "offensiveness … "
+        },
+        {
+          "scid": "an11.992-1151:5.6",
+          "pli": "paḷāsassa… ",
+          "en": "contempt … "
+        },
+        {
+          "scid": "an11.992-1151:5.7",
+          "pli": "issāya… ",
+          "en": "jealousy … "
+        },
+        {
+          "scid": "an11.992-1151:5.8",
+          "pli": "macchariyassa… ",
+          "en": "stinginess … "
+        },
+        {
+          "scid": "an11.992-1151:5.9",
+          "pli": "māyāya… ",
+          "en": "deceitfulness … "
+        },
+        {
+          "scid": "an11.992-1151:5.10",
+          "pli": "sāṭheyyassa… ",
+          "en": "deviousness … "
+        },
+        {
+          "scid": "an11.992-1151:5.11",
+          "pli": "thambhassa… ",
+          "en": "obstinacy … "
+        },
+        {
+          "scid": "an11.992-1151:5.12",
+          "pli": "sārambhassa… ",
+          "en": "aggression … "
+        },
+        {
+          "scid": "an11.992-1151:5.13",
+          "pli": "mānassa… ",
+          "en": "conceit … "
+        },
+        {
+          "scid": "an11.992-1151:5.14",
+          "pli": "atimānassa… ",
+          "en": "arrogance … "
+        },
+        {
+          "scid": "an11.992-1151:5.15",
+          "pli": "madassa… ",
+          "en": "vanity … "
+        },
+        {
+          "scid": "an11.992-1151:5.16",
+          "pli": "pamādassa abhiññāya… pe… ",
+          "en": "for insight into negligence … "
+        },
+        {
+          "scid": "an11.992-1151:5.17",
+          "pli": "pariññāya… ",
+          "en": "complete understanding … "
+        },
+        {
+          "scid": "an11.992-1151:5.18",
+          "pli": "parikkhayāya… ",
+          "en": "complete ending … "
+        },
+        {
+          "scid": "an11.992-1151:5.19",
+          "pli": "pahānāya… ",
+          "en": "giving up … "
+        },
+        {
+          "scid": "an11.992-1151:5.20",
+          "pli": "khayāya… ",
+          "en": "ending … "
+        },
+        {
+          "scid": "an11.992-1151:5.21",
+          "pli": "vayāya… ",
+          "en": "vanishing … "
+        },
+        {
+          "scid": "an11.992-1151:5.22",
+          "pli": "virāgāya… ",
+          "en": "fading away … "
+        },
+        {
+          "scid": "an11.992-1151:5.23",
+          "pli": "nirodhāya… ",
+          "en": "cessation … "
+        },
+        {
+          "scid": "an11.992-1151:5.24",
+          "pli": "cāgāya… ",
+          "en": "giving away … "
+        },
+        {
+          "scid": "an11.992-1151:5.25",
+          "pli": "paṭinissaggāya ime ekādasa dhammā bhāvetabbā”ti. ",
+          "en": "For the letting go of negligence, these eleven things should be developed.” "
+        },
+        {
+          "scid": "an11.992-1151:6.1",
+          "pli": "Idamavoca bhagavā. ",
+          "en": "That is what the Buddha said. "
+        },
+        {
+          "scid": "an11.992-1151:6.2",
+          "pli": "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti. ",
+          "en": "Satisfied, the mendicants were happy with what the Buddha said. "
+        },
+        {
+          "scid": "an11.992-1151:7.1",
+          "pli": "Rāgapeyyālaṃ niṭṭhitaṃ. ",
+          "en": " "
+        },
+        {
+          "scid": "an11.992-1151:8.1",
+          "pli": "Nava suttasahassāni, ",
+          "en": " "
+        },
+        {
+          "scid": "an11.992-1151:8.2",
+          "pli": "bhiyyo pañcasatāni ca; ",
+          "en": " "
+        },
+        {
+          "scid": "an11.992-1151:8.3",
+          "pli": "Sattapaññāsa suttantā, ",
+          "en": " "
+        },
+        {
+          "scid": "an11.992-1151:8.4",
+          "pli": "aṅguttarasamāyutāti. ",
+          "en": " "
+        },
+        {
+          "scid": "an11.992-1151:9.1",
+          "pli": "Ekādasakanipātapāḷi niṭṭhitā. ",
+          "en": "The Book of the Elevens is finished. "
+        },
+        {
+          "scid": "an11.992-1151:10.1",
+          "pli": "Aṅguttaranikāyo samatto. ",
+          "en": "The Numbered Discourses is completed."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Numbered Discourses 11 ",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "an11.992-1151/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": null,
+    "volpages": "pts-vp-pli5.358",
+    "uid": "an11.992-1151",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": null,
+        "id": "en_an11.992-1151_sujato",
+        "segmented": true,
+        "title": "",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 0,
+    "biblio": null,
+    "num": 3
+  }
+}

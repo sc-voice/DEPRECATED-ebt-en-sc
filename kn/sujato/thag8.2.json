@@ -1,0 +1,267 @@
+{
+  "sutta_uid": "thag8.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag8.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=\"author\">Bhikkhu Sujato</span> and <span class=\"author\">Jessica Walton</span>. First edition 2014, this revised edition <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sirimitta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahāpanthaka",
+      "uid": "thag8.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahākaccāyana",
+      "uid": "thag8.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag8.2:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag8.2:2.1",
+          "pli": "Aṭṭhakanipāta",
+          "en": "The Book of the Eights"
+        },
+        {
+          "scid": "thag8.2:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag8.2:4.1",
+          "pli": "8.2. Sirimittattheragāthā",
+          "en": "8.2. Sirimitta"
+        },
+        {
+          "scid": "thag8.2:5.1",
+          "pli": "“Akkodhanonupanāhī,",
+          "en": "Free of anger and hostility,"
+        },
+        {
+          "scid": "thag8.2:5.2",
+          "pli": "amāyo rittapesuṇo;",
+          "en": "free of deceit, and rid of slander;"
+        },
+        {
+          "scid": "thag8.2:5.3",
+          "pli": "Sa ve tādisako bhikkhu,",
+          "en": "that’s how such a mendicant"
+        },
+        {
+          "scid": "thag8.2:5.4",
+          "pli": "evaṃ pecca na socati.",
+          "en": "doesn’t grieve after passing away."
+        },
+        {
+          "scid": "thag8.2:6.1",
+          "pli": "Akkodhanonupanāhī,",
+          "en": "Free of anger and hostility,"
+        },
+        {
+          "scid": "thag8.2:6.2",
+          "pli": "amāyo rittapesuṇo;",
+          "en": "free of deceit, and rid of slander;"
+        },
+        {
+          "scid": "thag8.2:6.3",
+          "pli": "Guttadvāro sadā bhikkhu,",
+          "en": "that’s how a mendicant with sense doors always guarded"
+        },
+        {
+          "scid": "thag8.2:6.4",
+          "pli": "evaṃ pecca na socati.",
+          "en": "doesn’t grieve after passing away."
+        },
+        {
+          "scid": "thag8.2:7.1",
+          "pli": "Akkodhanonupanāhī,",
+          "en": "Free of anger and hostility,"
+        },
+        {
+          "scid": "thag8.2:7.2",
+          "pli": "amāyo rittapesuṇo;",
+          "en": "free of deceit, and rid of slander;"
+        },
+        {
+          "scid": "thag8.2:7.3",
+          "pli": "Kalyāṇasīlo so bhikkhu,",
+          "en": "that’s how a mendicant of good virtue"
+        },
+        {
+          "scid": "thag8.2:7.4",
+          "pli": "evaṃ pecca na socati.",
+          "en": "doesn’t grieve after passing away."
+        },
+        {
+          "scid": "thag8.2:8.1",
+          "pli": "Akkodhanonupanāhī,",
+          "en": "Free of anger and hostility,"
+        },
+        {
+          "scid": "thag8.2:8.2",
+          "pli": "amāyo rittapesuṇo;",
+          "en": "free of deceit, and rid of slander;"
+        },
+        {
+          "scid": "thag8.2:8.3",
+          "pli": "Kalyāṇamitto so bhikkhu,",
+          "en": "that’s how a mendicant with good friends"
+        },
+        {
+          "scid": "thag8.2:8.4",
+          "pli": "evaṃ pecca na socati.",
+          "en": "doesn’t grieve after passing away."
+        },
+        {
+          "scid": "thag8.2:9.1",
+          "pli": "Akkodhanonupanāhī,",
+          "en": "Free of anger and hostility,"
+        },
+        {
+          "scid": "thag8.2:9.2",
+          "pli": "amāyo rittapesuṇo;",
+          "en": "free of deceit, and rid of slander;"
+        },
+        {
+          "scid": "thag8.2:9.3",
+          "pli": "Kalyāṇapañño so bhikkhu,",
+          "en": "that’s how a mendicant of good wisdom,"
+        },
+        {
+          "scid": "thag8.2:9.4",
+          "pli": "evaṃ pecca na socati.",
+          "en": "doesn’t grieve after passing away."
+        },
+        {
+          "scid": "thag8.2:10.1",
+          "pli": "Yassa saddhā tathāgate,",
+          "en": "Whoever has faith in the Realized One,"
+        },
+        {
+          "scid": "thag8.2:10.2",
+          "pli": "acalā suppatiṭṭhitā;",
+          "en": "unwavering and well grounded;"
+        },
+        {
+          "scid": "thag8.2:10.3",
+          "pli": "Sīlañca yassa kalyāṇaṃ,",
+          "en": "whose ethical conduct is good,"
+        },
+        {
+          "scid": "thag8.2:10.4",
+          "pli": "ariyakantaṃ pasaṃsitaṃ.",
+          "en": "praised and loved by the noble ones;"
+        },
+        {
+          "scid": "thag8.2:11.1",
+          "pli": "Saṃghe pasādo yassatthi,",
+          "en": "who has confidence in the Saṅgha,"
+        },
+        {
+          "scid": "thag8.2:11.2",
+          "pli": "ujubhūtañca dassanaṃ;",
+          "en": "and correct view:"
+        },
+        {
+          "scid": "thag8.2:11.3",
+          "pli": "‘Adaliddo’ti taṃ āhu,",
+          "en": "they’re said to be prosperous;"
+        },
+        {
+          "scid": "thag8.2:11.4",
+          "pli": "amoghaṃ tassa jīvitaṃ.",
+          "en": "their life is not in vain."
+        },
+        {
+          "scid": "thag8.2:12.1",
+          "pli": "Tasmā saddhañca sīlañca,",
+          "en": "So let the wise devote themselves"
+        },
+        {
+          "scid": "thag8.2:12.2",
+          "pli": "pasādaṃ dhammadassanaṃ;",
+          "en": "to faith, ethical behavior,"
+        },
+        {
+          "scid": "thag8.2:12.3",
+          "pli": "Anuyuñjetha medhāvī,",
+          "en": "confidence, and insight into the teaching,"
+        },
+        {
+          "scid": "thag8.2:12.4",
+          "pli": "saraṃ buddhāna sāsanan”ti.",
+          "en": "remembering the instructions of the Buddhas."
+        },
+        {
+          "scid": "thag8.2:13.1",
+          "pli": "…",
+          "en": ""
+        },
+        {
+          "scid": "thag8.2:13.2",
+          "pli": "Sirimitto thero ….",
+          "en": ""
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag8.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 8.2",
+    "volpages": "pts53",
+    "uid": "thag8.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sirimittattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sirimitta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag8.2_sujato",
+        "segmented": true,
+        "title": "Sirimitta",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 9,
+    "biblio": null,
+    "num": 2
+  }
+}

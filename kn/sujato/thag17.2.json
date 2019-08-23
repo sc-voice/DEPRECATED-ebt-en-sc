@@ -1,0 +1,407 @@
+{
+  "sutta_uid": "thag17.2",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag17.2",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=\"author\">Bhikkhu Sujato</span> and <span class=\"author\">Jessica Walton</span>. First edition 2014, this revised edition <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Sāriputta",
+    "next": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Ānanda",
+      "uid": "thag17.3"
+    },
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Phussa",
+      "uid": "thag17.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag17.2:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag17.2:2.1",
+          "pli": "Tiṃsanipāta",
+          "en": "The Book of the Thirties"
+        },
+        {
+          "scid": "thag17.2:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag17.2:4.1",
+          "pli": "17.2. Sāriputtattheragāthā",
+          "en": "17.2. Sāriputta"
+        },
+        {
+          "scid": "thag17.2:5.1",
+          "pli": "“Yathācārī yathāsato satīmā,",
+          "en": "“One who’s mindful as per their conduct and mindfulness,"
+        },
+        {
+          "scid": "thag17.2:5.2",
+          "pli": "Yatasaṅkappajjhāyi appamatto;",
+          "en": "diligent as per their intentions and meditation,"
+        },
+        {
+          "scid": "thag17.2:5.3",
+          "pli": "Ajjhattarato samāhitatto,",
+          "en": "happy inside, serene, solitary, contented:"
+        },
+        {
+          "scid": "thag17.2:5.4",
+          "pli": "Eko santusito tamāhu bhikkhuṃ.",
+          "en": "that is what they call a mendicant."
+        },
+        {
+          "scid": "thag17.2:6.1",
+          "pli": "Allaṃ sukkhaṃ vā bhuñjanto,",
+          "en": "When eating fresh or dried food,"
+        },
+        {
+          "scid": "thag17.2:6.2",
+          "pli": "Na bāḷhaṃ suhito siyā;",
+          "en": "one shouldn’t be overly replete."
+        },
+        {
+          "scid": "thag17.2:6.3",
+          "pli": "Ūnūdaro mitāhāro,",
+          "en": "A mendicant should wander mindfully,"
+        },
+        {
+          "scid": "thag17.2:6.4",
+          "pli": "Sato bhikkhu paribbaje.",
+          "en": "with unfilled belly, taking limited food."
+        },
+        {
+          "scid": "thag17.2:7.1",
+          "pli": "Cattāro pañca ālope,",
+          "en": "Four or five mouthfuls before you’re full,"
+        },
+        {
+          "scid": "thag17.2:7.2",
+          "pli": "abhutvā udakaṃ pive;",
+          "en": "drink some water;"
+        },
+        {
+          "scid": "thag17.2:7.3",
+          "pli": "Alaṃ phāsuvihārāya,",
+          "en": "this is enough for a resolute mendicant"
+        },
+        {
+          "scid": "thag17.2:7.4",
+          "pli": "pahitattassa bhikkhuno.",
+          "en": "to live in comfort."
+        },
+        {
+          "scid": "thag17.2:8.1",
+          "pli": "Kappiyaṃ tañce chādeti,",
+          "en": "If they cover themselves with a robe"
+        },
+        {
+          "scid": "thag17.2:8.2",
+          "pli": "cīvaraṃ idamatthikaṃ;",
+          "en": "that’s allowable and fit for purpose;"
+        },
+        {
+          "scid": "thag17.2:8.3",
+          "pli": "Alaṃ phāsuvihārāya,",
+          "en": "this is enough for a resolute mendicant"
+        },
+        {
+          "scid": "thag17.2:8.4",
+          "pli": "pahitattassa bhikkhuno.",
+          "en": "to live in comfort."
+        },
+        {
+          "scid": "thag17.2:9.1",
+          "pli": "Pallaṅkena nisinnassa,",
+          "en": "When sitting cross-legged,"
+        },
+        {
+          "scid": "thag17.2:9.2",
+          "pli": "jaṇṇuke nābhivassati;",
+          "en": "the rain doesn’t fall on the knees;"
+        },
+        {
+          "scid": "thag17.2:9.3",
+          "pli": "Alaṃ phāsuvihārāya,",
+          "en": "this is enough for a resolute mendicant"
+        },
+        {
+          "scid": "thag17.2:9.4",
+          "pli": "pahitattassa bhikkhuno.",
+          "en": "to live in comfort.”"
+        },
+        {
+          "scid": "thag17.2:10.1",
+          "pli": "Yo sukhaṃ dukkhato adda,",
+          "en": "“When you’ve seen happiness as suffering,"
+        },
+        {
+          "scid": "thag17.2:10.2",
+          "pli": "dukkhamaddakkhi sallato;",
+          "en": "and suffering as a dart,"
+        },
+        {
+          "scid": "thag17.2:10.3",
+          "pli": "Ubhayantarena nāhosi,",
+          "en": "and that there’s nothing between the two—"
+        },
+        {
+          "scid": "thag17.2:10.4",
+          "pli": "kena lokasmi kiṃ siyā.",
+          "en": "what keeps you in the world? What would you become?"
+        },
+        {
+          "scid": "thag17.2:11.1",
+          "pli": "Mā me kadāci pāpiccho,",
+          "en": "Thinking, ‘May I have nothing to do with those of bad wishes,"
+        },
+        {
+          "scid": "thag17.2:11.2",
+          "pli": "kusīto hīnavīriyo;",
+          "en": "lazy, lacking energy,"
+        },
+        {
+          "scid": "thag17.2:11.3",
+          "pli": "Appassuto anādaro,",
+          "en": "uneducated, lacking regard for others’—"
+        },
+        {
+          "scid": "thag17.2:11.4",
+          "pli": "kena lokasmi kiṃ siyā.",
+          "en": "what keeps you in the world? What would you become?”"
+        },
+        {
+          "scid": "thag17.2:12.1",
+          "pli": "Bahussuto ca medhāvī,",
+          "en": "“An intelligent, learned person,"
+        },
+        {
+          "scid": "thag17.2:12.2",
+          "pli": "sīlesu susamāhito;",
+          "en": "steady in ethics,"
+        },
+        {
+          "scid": "thag17.2:12.3",
+          "pli": "Cetosamathamanuyutto,",
+          "en": "devoted to serenity of heart—"
+        },
+        {
+          "scid": "thag17.2:12.4",
+          "pli": "api muddhani tiṭṭhatu.",
+          "en": "let them stand at the head.”"
+        },
+        {
+          "scid": "thag17.2:13.1",
+          "pli": "Yo papañcamanuyutto,",
+          "en": "“A beast who likes to proliferate,"
+        },
+        {
+          "scid": "thag17.2:13.2",
+          "pli": "papañcābhirato mago;",
+          "en": "enjoying proliferation,"
+        },
+        {
+          "scid": "thag17.2:13.3",
+          "pli": "Virādhayī so nibbānaṃ,",
+          "en": "fails to win extinguishment,"
+        },
+        {
+          "scid": "thag17.2:13.4",
+          "pli": "yogakkhemaṃ anuttaraṃ.",
+          "en": "the supreme sanctuary."
+        },
+        {
+          "scid": "thag17.2:14.1",
+          "pli": "Yo ca papañcaṃ hitvāna,",
+          "en": "But one who gives up proliferation,"
+        },
+        {
+          "scid": "thag17.2:14.2",
+          "pli": "nippapañcapathe rato;",
+          "en": "enjoying the state of non-proliferation,"
+        },
+        {
+          "scid": "thag17.2:14.3",
+          "pli": "Ārādhayī so nibbānaṃ,",
+          "en": "wins extinguishment,"
+        },
+        {
+          "scid": "thag17.2:14.4",
+          "pli": "yogakkhemaṃ anuttaraṃ.",
+          "en": "the supreme sanctuary.”"
+        },
+        {
+          "scid": "thag17.2:15.1",
+          "pli": "Gāme vā yadi vāraññe,",
+          "en": "“Whether in the village or the wilderness,"
+        },
+        {
+          "scid": "thag17.2:15.2",
+          "pli": "Ninne vā yadi vā thale;",
+          "en": "in a valley or the uplands,"
+        },
+        {
+          "scid": "thag17.2:15.3",
+          "pli": "Yattha arahanto viharanti,",
+          "en": "wherever the perfected ones live"
+        },
+        {
+          "scid": "thag17.2:15.4",
+          "pli": "Taṃ bhūmirāmaṇeyyakaṃ.",
+          "en": "is a delightful place.”"
+        },
+        {
+          "scid": "thag17.2:16.1",
+          "pli": "Ramaṇīyāni araññāni,",
+          "en": "“The wilderness is so lovely!"
+        },
+        {
+          "scid": "thag17.2:16.2",
+          "pli": "yattha na ramatī jano;",
+          "en": "Though most people don’t like it,"
+        },
+        {
+          "scid": "thag17.2:16.3",
+          "pli": "Vītarāgā ramissanti,",
+          "en": "those free of greed are happy there,"
+        },
+        {
+          "scid": "thag17.2:16.4",
+          "pli": "na te kāmagavesino.",
+          "en": "as they don’t seek sensual pleasures.”"
+        },
+        {
+          "scid": "thag17.2:17.1",
+          "pli": "Nidhīnaṃva pavattāraṃ,",
+          "en": "“When you see someone who sees your faults,"
+        },
+        {
+          "scid": "thag17.2:17.2",
+          "pli": "yaṃ passe vajjadassinaṃ;",
+          "en": "an intelligent person who rebukes you,"
+        },
+        {
+          "scid": "thag17.2:17.3",
+          "pli": "Niggayhavādiṃ medhāviṃ,",
+          "en": "you should stick close to such an astute person,"
+        },
+        {
+          "scid": "thag17.2:17.4",
+          "pli": "tādisaṃ paṇḍitaṃ bhaje;",
+          "en": "as if they were revealing some hidden treasure."
+        },
+        {
+          "scid": "thag17.2:17.5",
+          "pli": "Tādisaṃ bhajamānassa,",
+          "en": "Sticking close to such a person,"
+        },
+        {
+          "scid": "thag17.2:17.6",
+          "pli": "seyyo hoti na pāpiyo.",
+          "en": "things get better, not worse.”"
+        },
+        {
+          "scid": "thag17.2:18.1",
+          "pli": "Ovadeyyānusāseyya,",
+          "en": "“One ought to advise and instruct;"
+        },
+        {
+          "scid": "thag17.2:18.2",
+          "pli": "asabbhā ca nivāraye;",
+          "en": "one ought to curb wickedness."
+        },
+        {
+          "scid": "thag17.2:18.3",
+          "pli": "Satañhi so piyo hoti,",
+          "en": "For such a person is loved by the good,"
+        },
+        {
+          "scid": "thag17.2:18.4",
+          "pli": "asataṃ hoti appiyo.",
+          "en": "and isn’t loved by the bad.”"
+        },
+        {
+          "scid": "thag17.2:19.1",
+          "pli": "Aññassa bhagavā buddho,",
+          "en": "“The Blessed One, the Buddha, the seer"
+        },
+        {
+          "scid": "thag17.2:19.2",
+          "pli": "dhammaṃ desesi cakkhumā;",
+          "en": "was teaching Dhamma to another."
+        },
+        {
+          "scid": "thag17.2:19.3",
+          "pli": "Dhamme desiyamānamhi,",
+          "en": "As he taught the Dhamma,"
+        },
+        {
+          "scid": "thag17.2:19.4",
+          "pli": "sotamodhesimatthiko.",
+          "en": "I lent an ear to get the meaning."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag17.2/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 17.2",
+    "volpages": "pts90",
+    "uid": "thag17.2",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Sāriputtattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Sāriputta",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag17.2_sujato",
+        "segmented": true,
+        "title": "Sāriputta",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 71,
+    "biblio": null,
+    "num": 2
+  }
+}

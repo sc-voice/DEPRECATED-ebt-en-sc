@@ -1,0 +1,412 @@
+{
+  "sutta_uid": "thag21.1",
+  "support": {
+    "value": "Supported",
+    "description": "Content is actively maintained. Please report errors and inconsistencies"
+  },
+  "translation": {
+    "uid": "thag21.1",
+    "author": "Bhikkhu Sujato",
+    "author_short": "Sujato",
+    "author_uid": "sujato",
+    "author_blurb": {
+      "en": "Translated for SuttaCentral by <span class=\"author\">Bhikkhu Sujato</span> and <span class=\"author\">Jessica Walton</span>. First edition 2014, this revised edition <span class=\"publication-date\">2019</span>. Dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation in any way you wish. Attribution is appreciated but not legally required."
+    },
+    "lang": "en",
+    "title": "Vaṅgīsa",
+    "next": null,
+    "previous": {
+      "author_uid": "sujato",
+      "lang": "en",
+      "name": "Mahāmoggallāna",
+      "uid": "thag20.1"
+    }
+  },
+  "sections": [
+    {
+      "segments": [
+        {
+          "scid": "thag21.1:1.1",
+          "pli": "Theragāthā",
+          "en": "Verses of the Senior Monks"
+        },
+        {
+          "scid": "thag21.1:2.1",
+          "pli": "Mahānipāta",
+          "en": "The Great Book"
+        },
+        {
+          "scid": "thag21.1:3.1",
+          "pli": "Paṭhamavagga",
+          "en": "Chapter One"
+        },
+        {
+          "scid": "thag21.1:4.1",
+          "pli": "21.1. Vaṅgīsattheragāthā",
+          "en": "21.1. Vaṅgīsa"
+        },
+        {
+          "scid": "thag21.1:5.1",
+          "pli": "“Nikkhantaṃ vata maṃ santaṃ,",
+          "en": "“Now that I’ve gone forth"
+        },
+        {
+          "scid": "thag21.1:5.2",
+          "pli": "agārasmānagāriyaṃ;",
+          "en": "from the lay life to homelessness,"
+        },
+        {
+          "scid": "thag21.1:5.3",
+          "pli": "Vitakkā upadhāvanti,",
+          "en": "I’m overrun"
+        },
+        {
+          "scid": "thag21.1:5.4",
+          "pli": "pagabbhā kaṇhato ime.",
+          "en": "by the impudent thoughts of the Dark One."
+        },
+        {
+          "scid": "thag21.1:6.1",
+          "pli": "Uggaputtā mahissāsā,",
+          "en": "Even if a thousand mighty princes and great archers,"
+        },
+        {
+          "scid": "thag21.1:6.2",
+          "pli": "sikkhitā daḷhadhammino;",
+          "en": "well trained, with strong bows,"
+        },
+        {
+          "scid": "thag21.1:6.3",
+          "pli": "Samantā parikireyyuṃ,",
+          "en": "were to completely surround me;"
+        },
+        {
+          "scid": "thag21.1:6.4",
+          "pli": "sahassaṃ apalāyinaṃ.",
+          "en": "I would never flee."
+        },
+        {
+          "scid": "thag21.1:7.1",
+          "pli": "Sacepi ettakā bhiyyo,",
+          "en": "And even if women come,"
+        },
+        {
+          "scid": "thag21.1:7.2",
+          "pli": "āgamissanti itthiyo;",
+          "en": "many more than that,"
+        },
+        {
+          "scid": "thag21.1:7.3",
+          "pli": "Neva maṃ byādhayissanti,",
+          "en": "they won’t scare me,"
+        },
+        {
+          "scid": "thag21.1:7.4",
+          "pli": "dhamme samhi patiṭṭhito.",
+          "en": "for I stand firm in the teaching."
+        },
+        {
+          "scid": "thag21.1:8.1",
+          "pli": "Sakkhī hi me sutaṃ etaṃ,",
+          "en": "I heard this with my own ears"
+        },
+        {
+          "scid": "thag21.1:8.2",
+          "pli": "buddhassādiccabandhuno;",
+          "en": "from the Buddha, Kinsman of the Sun,"
+        },
+        {
+          "scid": "thag21.1:8.3",
+          "pli": "Nibbānagamanaṃ maggaṃ,",
+          "en": "about the path going to extinguishment;"
+        },
+        {
+          "scid": "thag21.1:8.4",
+          "pli": "tattha me nirato mano.",
+          "en": "that’s what delights my mind."
+        },
+        {
+          "scid": "thag21.1:9.1",
+          "pli": "Evañce maṃ viharantaṃ,",
+          "en": "Wicked One, if you come near me"
+        },
+        {
+          "scid": "thag21.1:9.2",
+          "pli": "pāpima upagacchasi;",
+          "en": "as I meditate like this,"
+        },
+        {
+          "scid": "thag21.1:9.3",
+          "pli": "Tathā maccu karissāmi,",
+          "en": "I’ll make sure that you, Death,"
+        },
+        {
+          "scid": "thag21.1:9.4",
+          "pli": "na me maggampi dakkhasi.",
+          "en": "won’t even see the path I take.”"
+        },
+        {
+          "scid": "thag21.1:10.1",
+          "pli": "Aratiñca ratiñca pahāya,",
+          "en": "“Giving up discontent and desire,"
+        },
+        {
+          "scid": "thag21.1:10.2",
+          "pli": "Sabbaso gehasitañca vitakkaṃ;",
+          "en": "along with all thoughts of the lay life,"
+        },
+        {
+          "scid": "thag21.1:10.3",
+          "pli": "Vanathaṃ na kareyya kuhiñci,",
+          "en": "they wouldn’t get entangled in anything;"
+        },
+        {
+          "scid": "thag21.1:10.4",
+          "pli": "Nibbanatho avanatho sa bhikkhu.",
+          "en": "unentangled, disentangled: that’s a real mendicant."
+        },
+        {
+          "scid": "thag21.1:11.1",
+          "pli": "Yamidha pathaviñca vehāsaṃ,",
+          "en": "Whether on this earth or in the sky,"
+        },
+        {
+          "scid": "thag21.1:11.2",
+          "pli": "Rūpagataṃ jagatogadhaṃ kiñci;",
+          "en": "whatever in the world is included in form"
+        },
+        {
+          "scid": "thag21.1:11.3",
+          "pli": "Parijīyati sabbamaniccaṃ,",
+          "en": "wears out, it is all impermanent;"
+        },
+        {
+          "scid": "thag21.1:11.4",
+          "pli": "Evaṃ samecca caranti mutattā.",
+          "en": "the thoughtful live having comprehended this truth."
+        },
+        {
+          "scid": "thag21.1:12.1",
+          "pli": "Upadhīsu janā gadhitāse,",
+          "en": "People are bound to their attachments,"
+        },
+        {
+          "scid": "thag21.1:12.2",
+          "pli": "Diṭṭhasute paṭighe ca mute ca;",
+          "en": "to what is seen, heard, felt, and thought."
+        },
+        {
+          "scid": "thag21.1:12.3",
+          "pli": "Ettha vinodaya chandamanejo,",
+          "en": "Unstirred, dispel desire for these things;"
+        },
+        {
+          "scid": "thag21.1:12.4",
+          "pli": "Yo hettha na limpati muni tamāhu.",
+          "en": "for one called ‘a sage’ does not cling to them."
+        },
+        {
+          "scid": "thag21.1:13.1",
+          "pli": "Atha saṭṭhisitā savitakkā,",
+          "en": "Attached to the sixty wrong views, and full of their own opinions,"
+        },
+        {
+          "scid": "thag21.1:13.2",
+          "pli": "Puthujjanatāya adhammā niviṭṭhā;",
+          "en": "ordinary people are fixed in wrong principles."
+        },
+        {
+          "scid": "thag21.1:13.3",
+          "pli": "Na ca vaggagatassa kuhiñci,",
+          "en": "But that mendicant wouldn’t join a sectarian group,"
+        },
+        {
+          "scid": "thag21.1:13.4",
+          "pli": "No pana duṭṭhullagāhī sa bhikkhu.",
+          "en": "still less would they utter lewd speech."
+        },
+        {
+          "scid": "thag21.1:14.1",
+          "pli": "Dabbo cirarattasamāhito,",
+          "en": "Clever, long serene,"
+        },
+        {
+          "scid": "thag21.1:14.2",
+          "pli": "Akuhako nipako apihālu;",
+          "en": "free of deceit, alert, without envy,"
+        },
+        {
+          "scid": "thag21.1:14.3",
+          "pli": "Santaṃ padaṃ ajjhagamā muni,",
+          "en": "the sage has reached the state of peace;"
+        },
+        {
+          "scid": "thag21.1:14.4",
+          "pli": "Paṭicca parinibbuto kaṅkhati kālaṃ.",
+          "en": "and because he’s extinguished, he awaits his time.”"
+        },
+        {
+          "scid": "thag21.1:15.1",
+          "pli": "Mānaṃ pajahassu gotama,",
+          "en": "“Give up conceit, Gotama!"
+        },
+        {
+          "scid": "thag21.1:15.2",
+          "pli": "Mānapathañca jahassu asesaṃ;",
+          "en": "Completely abandon the different kinds of conceit!"
+        },
+        {
+          "scid": "thag21.1:15.3",
+          "pli": "Mānapathamhi sa mucchito,",
+          "en": "Besotted with the different kinds of conceit,"
+        },
+        {
+          "scid": "thag21.1:15.4",
+          "pli": "Vippaṭisārīhuvā cirarattaṃ.",
+          "en": "you’ve had regrets for a long time."
+        },
+        {
+          "scid": "thag21.1:16.1",
+          "pli": "Makkhena makkhitā pajā,",
+          "en": "Smeared by smears and slain by conceit,"
+        },
+        {
+          "scid": "thag21.1:16.2",
+          "pli": "Mānahatā nirayaṃ papatanti;",
+          "en": "people fall into hell."
+        },
+        {
+          "scid": "thag21.1:16.3",
+          "pli": "Socanti janā cirarattaṃ,",
+          "en": "When people slain by conceit are reborn in hell,"
+        },
+        {
+          "scid": "thag21.1:16.4",
+          "pli": "Mānahatā nirayaṃ upapannā.",
+          "en": "they grieve for a long time."
+        },
+        {
+          "scid": "thag21.1:17.1",
+          "pli": "Na hi socati bhikkhu kadāci,",
+          "en": "But a mendicant who practices rightly,"
+        },
+        {
+          "scid": "thag21.1:17.2",
+          "pli": "Maggajino sammā paṭipanno;",
+          "en": "owning the path, never grieves."
+        },
+        {
+          "scid": "thag21.1:17.3",
+          "pli": "Kittiñca sukhañcānubhoti,",
+          "en": "They enjoy happiness and a good reputation,"
+        },
+        {
+          "scid": "thag21.1:17.4",
+          "pli": "Dhammadasoti tamāhu tathattaṃ.",
+          "en": "and they rightly call him a ‘Seer of Truth’."
+        },
+        {
+          "scid": "thag21.1:18.1",
+          "pli": "Tasmā akhilo idha padhānavā,",
+          "en": "So don’t be hard-hearted, be energetic,"
+        },
+        {
+          "scid": "thag21.1:18.2",
+          "pli": "Nīvaraṇāni pahāya visuddho;",
+          "en": "with hindrances given up, be pure."
+        },
+        {
+          "scid": "thag21.1:18.3",
+          "pli": "Mānañca pahāya asesaṃ,",
+          "en": "Then with conceit given up completely,"
+        },
+        {
+          "scid": "thag21.1:18.4",
+          "pli": "Vijjāyantakaro samitāvī”.",
+          "en": "use knowledge to make an end, and be at peace.”"
+        },
+        {
+          "scid": "thag21.1:19.1",
+          "pli": "“Kāmarāgena ḍayhāmi,",
+          "en": "“I’ve got a burning desire for pleasure;"
+        },
+        {
+          "scid": "thag21.1:19.2",
+          "pli": "cittaṃ me pariḍayhati;",
+          "en": "my mind is on fire!"
+        },
+        {
+          "scid": "thag21.1:19.3",
+          "pli": "Sādhu nibbāpanaṃ brūhi,",
+          "en": "Please, out of compassion, Gotama,"
+        },
+        {
+          "scid": "thag21.1:19.4",
+          "pli": "anukampāya gotama”.",
+          "en": "tell me how to quench the flames.”"
+        },
+        {
+          "scid": "thag21.1:20.1",
+          "pli": "“Saññāya vipariyesā,",
+          "en": "“Your mind is on fire"
+        },
+        {
+          "scid": "thag21.1:20.2",
+          "pli": "cittaṃ te pariḍayhati;",
+          "en": "because of a perversion of perception."
+        },
+        {
+          "scid": "thag21.1:20.3",
+          "pli": "Nimittaṃ parivajjehi,",
+          "en": "Turn away from the feature of things"
+        },
+        {
+          "scid": "thag21.1:20.4",
+          "pli": "subhaṃ rāgūpasaṃhitaṃ.",
+          "en": "that’s attractive, provoking lust."
+        }
+      ],
+      "type": "Section",
+      "prefix": "",
+      "values": [],
+      "template": [],
+      "expanded": false,
+      "prop": "en",
+      "title": "Verses of the Senior Monks",
+      "expandable": false
+    }
+  ],
+  "suttaCode": "thag21.1/en/sujato",
+  "author_uid": "sujato",
+  "suttaplex": {
+    "acronym": "Thag 21.1",
+    "volpages": "pts109",
+    "uid": "thag21.1",
+    "blurb": null,
+    "difficulty": null,
+    "original_title": "Vaṅgīsattheragāthā",
+    "root_lang": "pli",
+    "root_lang_name": "Pāli",
+    "type": "text",
+    "from": null,
+    "translated_title": "Vaṅgīsa",
+    "translations": [
+      {
+        "lang": "en",
+        "lang_name": "English",
+        "is_root": false,
+        "author": "Bhikkhu Sujato",
+        "author_short": "Sujato",
+        "author_uid": "sujato",
+        "publication_date": "2019",
+        "id": "en_thag21.1_sujato",
+        "segmented": true,
+        "title": "Vaṅgīsa",
+        "volpage": null
+      }
+    ],
+    "parallel_count": 39,
+    "biblio": null,
+    "num": 1
+  }
+}
