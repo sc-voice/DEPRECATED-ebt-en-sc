@@ -1,8 +1,7 @@
 Early Buddhist Texts (English)
 ==============================
 
-English translations of Early Buddhist Texts based on 
-[Bhikkhu Sujato's glossary](https://discourse.suttacentral.net/t/pali-glossary-for-bhikkhus-bodhi-and-sujato/12008)
+English segmented translations of Early Buddhist Texts compiled by Bhikkhus Sujato and Brahmali for SuttaCentral.
 
 These translations are used by [voice.suttacentral.net](voice.suttacentral.net) for searches 
 informed by the [dynamic equivalence of a sense-for-sense translation](https://en.wikipedia.org/wiki/Sense-for-sense_translation)
